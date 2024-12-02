@@ -1,7 +1,7 @@
 # Proyecto de Recetas
 
 Este es un sitio web dedicado a compartir recetas deliciosas y fáciles de seguir. Aquí podrás encontrar recetas de postres, platos principales y más. Además, puedes enviar tus reseñas sobre las recetas y ponerte en contacto a través del formulario de contacto.
-
+Pagina: https://ceciliaanoemii.github.io/Recetas/
 ## Características
 
 - **Recetas organizadas en cards**: Cada receta tiene su propia tarjeta con una imagen representativa.
